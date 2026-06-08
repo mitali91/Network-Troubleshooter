@@ -1,0 +1,4 @@
+BGP peer dropped between core-router-01 and ISP edge router (AS 65001).
+Interface GigabitEthernet0/0 on core-router-01 was showing input errors earlier today.
+Monitoring alerted on BGP session down at 14:32 PST.
+No recent config changes were made. ISP maintenance window was last week.

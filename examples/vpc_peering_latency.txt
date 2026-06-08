@@ -1,0 +1,4 @@
+High latency and packet loss reported on AWS VPC peering connection between us-east-1 and us-west-2.
+Application teams reporting 30-40% packet loss intermittently since 09:00 UTC.
+No VPC route table changes made. Both VPC CIDR ranges are correct in peering config.
+CloudWatch showing elevated network error metrics on the us-east-1 side.
